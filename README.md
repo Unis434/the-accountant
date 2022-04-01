@@ -1,5 +1,5 @@
 # The Good, The Bad and The Accountant
-s
+
 
 ### Prerequisites
 
