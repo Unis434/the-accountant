@@ -12,6 +12,3 @@ install:
 
 test:
 		npm run test:auto
-		
-		
-		
