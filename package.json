@@ -1,0 +1,25 @@
+{
+  "name": "the-accountant-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unis434/the-accountant.git"
+  },
+  "author": "Unisa Kamara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unis434/the-accountant/issues"
+  },
+  "homepage": "https://github.com/Unis434/the-accountant#readme",
+  "dependencies": {
+    "all": "^0.0.0",
+    "babel": "^6.23.0",
+    "node": "^17.7.2",
+    "yarn": "^1.22.18"
+  }
+}
